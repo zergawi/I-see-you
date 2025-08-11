@@ -248,7 +248,7 @@ SOFTWARE.
 Developer Information
 
 Name: Haider Kareem (حيدر كريم)
-Email: haider.kareem@example.com
+Email: zerzeft@gmail.com
 GitHub: @haiderkareem
 LinkedIn: Haider Kareem
 
