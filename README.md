@@ -47,7 +47,7 @@ jsonschema>=4.0.0
 🛠️ Installation
 Method 1: Clone and Install
 bash# Clone the repository
-git clone https://github.com/haiderkareem/iseeyou-network-monitor.git
+git clone [https://github.com/haiderkareem/iseeyou-network-monitor.git](https://github.com/zergawi/I-see-you.git)
 cd iseeyou-network-monitor
 
 # Create virtual environment
